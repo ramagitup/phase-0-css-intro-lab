@@ -1,20 +1,19 @@
-body {
-  background: #00b3e6;
+body{
+    background: #00b3e6;
 }
 
-div {
-  margin: auto;
-  width: 700px;
-  font-family: Helvetica Neue;
-  background: white;
-  padding: 30px;
-} 
+div{
+    width: 700px;
+    margin: auto;
+    font-family: Helvetica Neue;
+    background: white;
+    padding: 30px;
+}
 
 #main-header {
-  font-size: 22px;
-  color: red;
+    font-size: 22px;
 }
 
-.perspective-questions {
-  font-style: italic;
+.perspective-questions{
+    font-style: italic;
 }
